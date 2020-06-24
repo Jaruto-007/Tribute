@@ -9,6 +9,9 @@ img {
 border-radius: 50%;
 width: 300px;
 }
+.image-caption {
+  border: 2px solid seagreen;
+}
 .container {
 width: auto;
 height: auto;
