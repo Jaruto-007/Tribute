@@ -1,0 +1,16 @@
+body {
+  position: relative;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p, header {
+  text-align: center;
+  border: 1px solid red;
+}
+.container {
+width: auto;
+height: auto;
+border: 3px solid yellow;
+}
+.caption {
+border: 2px solid green;
+}
