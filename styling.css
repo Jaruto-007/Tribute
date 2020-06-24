@@ -4,7 +4,10 @@ body {
 }
 p, header {
   text-align: center;
-  border: 1px solid red;
+}
+img {
+border-radius: 50%;
+width: 300px;
 }
 .container {
 width: auto;
@@ -13,4 +16,7 @@ border: 3px solid yellow;
 }
 .caption {
 border: 2px solid green;
+}
+.caption-center {
+  border: 2px solid salmon;
 }
